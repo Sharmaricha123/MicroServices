@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy source folder &apos;resources&apos; to &apos;Hotel-Service&apos;&#x0D;&#x0A;- Original project: &apos;Hotel-Service&apos;&#x0D;&#x0A;- Destination element: &apos;Hotel-Service&apos;&#x0D;&#x0A;- Original element: &apos;Hotel-Service/src/main/resources&apos;" description="Copy source folder" destination="=Hotel-Service" element1="/src\/main\/resources=/maven.pomderived=/true=/=/optional=/true=/" flags="6" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyRoots" roots="1" stamp="1712658859430" version="1.0"/>
+</session>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=User-Service/C:\/Users\/Asus\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.6.3.Final\/hibernate-core-5.6.3.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.6.3.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(Dialect.class[Dialect" modifiers="1057" timestamp="1639607071000"/>
+    <typeInfo handle="=User-Service/C:\/Users\/Asus\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.6.3.Final\/hibernate-core-5.6.3.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.6.3.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQLDialect.class[MySQLDialect" modifiers="33" timestamp="1639607071000"/>
+    <typeInfo handle="=User-Service/C:\/Users\/Asus\/.m2\/repository\/org\/hibernate\/hibernate-core\/5.6.3.Final\/hibernate-core-5.6.3.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate=/=/maven.artifactId=/hibernate-core=/=/maven.version=/5.6.3.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="33" timestamp="1639607071000"/>
+</typeInfoHistroy>
