@@ -38,6 +38,10 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\DURGESH\MICROSERVICES\User-Service"/>
+			<item value="E:\DURGESH\MICROSERVICES\Rating-Service"/>
+			<item value="E:\DURGESH\MICROSERVICES\Hotel-Service"/>
+			<item value="E:\DURGESH\MICROSERVICES\Service-Registry"/>
 			<item value="E:\DURGESH\MICROSERVICES-TUTORIAL\Service-Registry"/>
 			<item value="E:\DURGESH\MICROSERVICES-TUTORIAL\Rating-Service"/>
 			<item value="E:\DURGESH\MICROSERVICES-TUTORIAL\Hotel-Service"/>
