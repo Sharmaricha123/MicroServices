@@ -38,6 +38,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\DURGESH\MICROSERVICES\ConfigServer"/>
+			<item value="E:\DURGESH\MICROSERVICES\ApiGateway"/>
 			<item value="E:\DURGESH\MICROSERVICES\User-Service"/>
 			<item value="E:\DURGESH\MICROSERVICES\Rating-Service"/>
 			<item value="E:\DURGESH\MICROSERVICES\Hotel-Service"/>
@@ -49,7 +51,7 @@
 			<item value="E:\DURGESH\MICROSERVICES-TUTORIAL\User-Service"/>
 		</list>
 		<section name="SmartImportWizard.dialogBounds">
-			<item key="DIALOG_X_ORIGIN" value="11"/>
+			<item key="DIALOG_X_ORIGIN" value="-13"/>
 			<item key="DIALOG_Y_ORIGIN" value="11"/>
 			<item key="DIALOG_WIDTH" value="984"/>
 			<item key="DIALOG_HEIGHT" value="837"/>

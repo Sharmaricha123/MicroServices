@@ -1,1 +1,17 @@
+com\user\controllers\UserController.class
+com\user\serviceImpl\UserServiceImpl.class
+com\user\entities\Rating$RatingBuilder.class
+com\user\entities\Rating.class
+com\user\entities\User.class
+com\user\external\services\RatingService.class
+com\user\payload\ApiResponse$ApiResponseBuilder.class
+com\user\repositories\UserRespository.class
 com\user\UserServiceApplication.class
+com\user\entities\User$UserBuilder.class
+com\user\service\UserService.class
+com\user\external\services\HotelService.class
+om\user\config\MyConfig.class
+com\user\entities\Hotel.class
+com\user\exception\GlobalExceptionHandler.class
+com\user\exception\ResourceNotFoundException.class
+com\user\payload\ApiResponse.class
